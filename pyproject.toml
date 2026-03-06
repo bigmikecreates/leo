@@ -14,11 +14,20 @@ dependencies = [
     'langchain',
     'langgraph',
     'langsmith',
+    'anthropic',
     'fastapi',
     'requests',
-    'pytest',
 ]
 dynamic = ['version']
+
+
+
+[project.optional-dependencies]
+dev = [
+    'python-dotenv',
+    'pytest',
+    'pytest-cov'
+]
 
 [tool.setuptools_scm]
 version_file="madrs/_version.py"

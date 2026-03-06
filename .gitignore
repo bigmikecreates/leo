@@ -6,3 +6,6 @@
 
 # Used for dynamic versioning of project
 _version.py
+
+# Env
+*.env
