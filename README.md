@@ -1,6 +1,6 @@
 # (L.E.O.) Learning Efficiency Optimizer
 
-An alternative approach to integrating AI/agentic solutions as a **mitigation** against **reduced learning efficiency**.
+An alternative framework for integrating AI agents into human workflows, focused on mitigating **reduced learning efficiency**.
 
 # Table of Contents
 
@@ -11,7 +11,7 @@ An alternative approach to integrating AI/agentic solutions as a **mitigation** 
 
 # 1. Introduction
 
-This project proposes an alternative approach to integrating AI /agentic solutions as a mitigation against one of the cognitive consequences suffered by humans via consuming such solutions: Reduced Learning Efficiency.
+This project proposes an alternative framework for integrating AI agents into human workflows, designed to mitigate one of the most common cognitive consequences of AI adoption: reduced learning efficiency
 
 <br>
 
