@@ -4,7 +4,7 @@ An alternative framework for integrating AI agents into human workflows, focused
 
 <blockquote>
 
-This project's premise is still being justified hence the skeleton repository - kindly refer to [Project Roadmap](https://github.com/users/bigmikecreates/projects/12/) for the current status.
+This project plan is still being put together hence the skeleton repo - refer to [Project Roadmap](https://github.com/users/bigmikecreates/projects/12/) for the current status.
 </blockquote>
 
 # Table of Contents
