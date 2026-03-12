@@ -2,6 +2,11 @@
 
 An alternative framework for integrating AI agents into human workflows, focused on mitigating **reduced learning efficiency**.
 
+<blockquote>
+
+This project's premise is still being justified hence the skeleton repository - kindly refer to [Project Roadmap](https://github.com/users/bigmikecreates/projects/12/) for the current status.
+</blockquote>
+
 # Table of Contents
 
 1. [Introduction](#1-introduction)
@@ -11,7 +16,7 @@ An alternative framework for integrating AI agents into human workflows, focused
 
 # 1. Introduction
 
-This project proposes an alternative framework for integrating AI agents into human workflows, designed to mitigate one of the most common cognitive consequences of AI adoption: reduced learning efficiency
+This project proposes an alternative framework for integrating AI agents into human workflows, designed to mitigate one of the most common cognitive consequences of AI adoption: reduced learning efficiency.
 
 <br>
 
