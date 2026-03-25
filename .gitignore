@@ -2,7 +2,7 @@
 /.venv
 
 # Pyproject editable artifacts
-/madrs.egg-info
+*.egg-info
 
 # Used for dynamic versioning of project
 _version.py

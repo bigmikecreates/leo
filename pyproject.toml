@@ -3,11 +3,11 @@ requires = ["setuptools", "setuptools-scm", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name="madrs"
+name="leo"
 authors = [
     {name = "Michael Quaye", email = "bookingsbigmike@gmail.com"}
 ]
-description="A multi-agent data research system"
+description="An alternative approach to integrating AI/agentic solutions as a mitigation against reduced learning efficiency."
 readme="README.md"
 license="MIT"
 dependencies = [
@@ -20,8 +20,6 @@ dependencies = [
 ]
 dynamic = ['version']
 
-
-
 [project.optional-dependencies]
 dev = [
     'python-dotenv',
@@ -30,7 +28,7 @@ dev = [
 ]
 
 [tool.setuptools_scm]
-version_file="madrs/_version.py"
+version_file="leo/_version.py"
 
 [tools.setuptools.packages.find]
 where = ["src"]
